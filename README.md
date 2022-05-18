@@ -1,4 +1,4 @@
-# spotify_clone_flutter
+# Spotify Clone
 
 A new Flutter project.
 
