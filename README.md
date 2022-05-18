@@ -10,6 +10,14 @@ Este proyecto está desarrollador en Flutter con el lenguaje de programación Da
     flutter config --enable-linux-desktop
 ```
 
+## Ejecutar en alguna plataforma
+
+```sh
+    flutter run -d macos
+    flutter run -d windows
+    flutter run -d linux
+```
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
