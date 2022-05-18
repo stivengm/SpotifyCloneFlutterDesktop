@@ -1,6 +1,14 @@
 # Spotify Clone
 
-A new Flutter project.
+Este proyecto está desarrollador en Flutter con el lenguaje de programación Dart, basado en la aplicación de Spotify Desktop.
+
+## Activar Plataformas Flutter
+
+```sh
+    flutter config --enable-windows-desktop
+    flutter config --enable-macos-desktop
+    flutter config --enable-linux-desktop
+```
 
 ## Getting Started
 
